@@ -5,16 +5,17 @@ Check release notes for latest releases.
 Latest release - v0.0.9 
 ## Updates
 - Multiplayer  
-- NameTags
+- Name Tags
 - Bugfixes
+- Pen Shop
 
 ## Image Gallary  
-<img width="1363" height="729" alt="image" src="https://github.com/user-attachments/assets/68ee63d2-35ba-43f9-9f18-cb70571d3807" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe94be9d-cc55-47e9-a2ef-c1bb45e3ef2a" />
 
-<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/e5d61e34-ac44-49cd-a679-9c020101d517" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c42c58a1-b3d2-4791-9da5-3d8fe9366760" />
 
-<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/143ea6c6-c0e8-4055-b5cb-8adb84da318d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f23a0e4-355a-4486-a3c9-3369b344f1bf" />
 
 ## Credits  
-Game Devloper - Avi [@program-with-avi](https://github.com/program-with-avi/)  
-Idealogist - Adved [@advedyt](https://github.com/advedyt)  
+Game Developer - Avi [@program-with-avi](https://github.com/program-with-avi/)  
+Ideologist - Adved [@advedyt](https://github.com/advedyt)  
