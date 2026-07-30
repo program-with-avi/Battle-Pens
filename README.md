@@ -2,11 +2,11 @@
 This is a virtual pen fighting game where you knock out your opponents pen of the table  
 ## Releases  
 Check release notes for latest releases.  
-Latest release - v0.0.8-proto  
+Latest release - v0.0.9 
 ## Updates
-- Cleaner table  
-- Major UI update
-- Bot mode
+- Multiplayer  
+- NameTags
+- Bugfixes
 
 ## Image Gallary  
 <img width="1363" height="729" alt="image" src="https://github.com/user-attachments/assets/68ee63d2-35ba-43f9-9f18-cb70571d3807" />
