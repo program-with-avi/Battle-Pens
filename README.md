@@ -2,12 +2,12 @@
 This is a virtual pen fighting game where you knock out your opponents pen of the table  
 ## Releases  
 Check release notes for latest releases.  
-Latest release - [v0.0.9](https://github.com/program-with-avi/Battle-Pens/releases)
+Latest release - [v0.1](https://github.com/program-with-avi/Battle-Pens/releases)
 ## Updates
 - Multiplayer  
-- Name Tags
+- Chat
 - Bugfixes
-- Pen Shop
+- SFX
 
 ## Image Gallary  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe94be9d-cc55-47e9-a2ef-c1bb45e3ef2a" />
